@@ -1,6 +1,6 @@
 <h1>W-mach</h1>
 
-<h2>Our target Problem:<h2>
+<h2>Our target Problem:</h2>
 <p>Starting from teens to old agers, a whole lot of people are suffering from body pain now-a-days. Due to digitalization, working officials were already suffering from pain from sitting infront of screens all day. In this addition to this,pandemic has caused the youth and kids to sit across computers too. AS a result of which, many-a-people are suffering from pain, which can lead to diseases like spondilytes and more.</p>
  
 <h2>What needs to be done?</h2>
